@@ -1,5 +1,5 @@
 # Autoencoder-Anomaly-Detection
-Code from my research project on anomaly detection using autoencoders, trained on the Kaggle credit card fraud dataset, and includes full preprocessing, model training, and evaluation.
+Code from my research project on anomaly detection using autoencoders, trained on the Kaggle credit card fraud dataset, and includes full preprocessing, model training, and evaluation. This project uses the public Kaggle credit card fraud dataset (https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud). Download the creditcard.csv and place it in the same folder as the code files in 'Models/'.
 
 autoencoder.py: Baseline autoencoder with 2-way train/test split
 autoencoder2.py: Autoencoder with feature-wise reconstruction weighting using 3-way split
